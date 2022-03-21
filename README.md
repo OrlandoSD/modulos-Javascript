@@ -1,7 +1,8 @@
 # modulos-Javascript
 Modulos - javascript
 
-Atividade
+Atividade: 
+
 Esta atividade tem como objetivo que você veja no console do seu navegador como os módulos funcionam.
 
 1 - Instale a extensão "Live Server" no seu VSCode;
